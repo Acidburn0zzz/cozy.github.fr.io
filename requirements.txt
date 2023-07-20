@@ -14,7 +14,7 @@ MarkupSafe==1.0
 -e git+https://github.com/mkdocs/mkdocs.git@3f0e4464a787ad5ce5a235d7ae988a2d8f53f077#egg=mkdocs
 packaging==18.0
 pip-upgrader==1.4.6
-Pygments==2.2.0
+Pygments==2.15.0
 pyparsing==2.2.2
 python-slugify==1.2.6
 pytz==2018.5
